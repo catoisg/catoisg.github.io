@@ -7,32 +7,36 @@ subtitle: CatOI
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### WHY CATOI?
+``` With NOI's 5+1 person cap, anyone who isn't in the school team would not have the opportunity to showcase their skills. We've made CatOI to address this gap, providing anyone (NOI Bronze or below) with an opportunity to shine and try interesting and beginner-friendly problems.
+```  
 
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+### RULES
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+Every contestant in the CatOI must be between Secondary one and Junior College 1 as of the year of the CatOI, must be eligible in NOI in the subsequent year, and must be enrolled in a school participating in the NOI.
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+Each school is to nominate one organiser whom will contact the organising committee of CatOI.
 
-### EDUCATION
+If proctoring is possible, participants are expected to arrive at the examination venue at least 15 minutes before the contest.
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+In the event that physical proctoring is not possible, proctorers will use a meeting app at their discretion.
+
+Tasks are not to be discussed until after the embargo period. This will be communicated on a date closer to the contest. 
+
+In the event a participant is unavailable during the competition, a make-up can be arranged at the Scientific Committee's discretion.
+
+### TASKS
+
+CatOI will follow the NOI syllabus, which follows the IOI syllabus. However, expect generally easier questions.
  
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+The syllabus documment is provided here: <strong><a href="https://ioinformatics.org/files/ioi-syllabus-2025.pdf"> IOI Syllabus 2025 </a></strong>
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+Past tasks are provided below:
+
+- 2025: <a href="https://codebreaker.xyz/contest/catoi2025">2nd Cat Olympiad in Informatics</a>
+- 2024: <a href="https://codebreaker.xyz/contest/nyoi2024">1st Nanyang Olympiad in Informatics</a>
+
+
 
 ### EXPERIENCE
 
