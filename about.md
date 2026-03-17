@@ -20,6 +20,9 @@ Rules are generally similar to the NOI, with the following inclusions:
 - If proctoring is possible, participants are expected to arrive at the examination venue at least 15 minutes before the contest.
 - In the event that physical proctoring is not possible, proctorers will use a meeting app at their discretion.
 - In the event a participant is unavailable during the competition, a make-up can be arranged at the Scientific Committee's discretion before the embargo lifts.
+
+Screen recording throughout the contest is compulsory, and may be requested at the organiser's discretion.
+
 Tasks are not to be discussed until after the embargo period. This will be communicated on a date closer to the contest. 
 
 ### TASKS
@@ -37,22 +40,23 @@ Past tasks are provided below:
 
 ### CatOI Committee 2025
 
-- blackscreen1	(SC member)
-- HighLithop (SC member and TC member)
+- <strong>blackscreen1	(SC member)</strong>
+- <strong>HighLithop (SC member and TC member)</strong>
 - JustKitkat
 - Pan
 - penguin133
-- popperoni	(SC member and TC member)
+- <strong>popperoni	(SC member and TC member)</strong>
 - Shadow1
 - shoryu386
-- StewartStudios	(SC member)
-- yuheng3757 (SC member)
+- <strong>StewartStudios	(SC member)</strong>
+- <strong>yuheng3757 (SC member)</strong>
 
 ### CatOI Committee 2024
 
-- JustKitkat
-- Pan
+- <strong> Hijackedsoul (SC member)</strong>
+- <strong>JustKitkat (SC member)</strong>
+- <strong>Pan (SC member)</strong>
 - penguin133
-- Shadow1
+- <strong>Shadow1 (SC member)</strong>
 - shoryu386
 - Tyx2019
