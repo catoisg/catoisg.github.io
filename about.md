@@ -4,7 +4,6 @@ title: About
 subtitle: CatOI
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
 ### WHY CATOI?
