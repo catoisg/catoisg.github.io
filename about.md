@@ -13,17 +13,15 @@ subtitle: CatOI
 
 ### RULES
 
-Every contestant in the CatOI must be between Secondary one and Junior College 1 as of the year of the CatOI, must be eligible in NOI in the subsequent year, and must be enrolled in a school participating in the NOI.
+Every contestant in the CatOI must be between Secondary one and Junior College 1 as of the year of the CatOI, must be eligible in NOI in the subsequent year, and must be enrolled in a school participating in the NOI. Every participant must not have achieved an NOI Silver or an NOI Gold prior to participation in the CatOI.
 
-Each school is to nominate one organiser whom will contact the organising committee of CatOI.
+Rules are generally similar to the NOI, with the following inclusions:
 
-If proctoring is possible, participants are expected to arrive at the examination venue at least 15 minutes before the contest.
-
-In the event that physical proctoring is not possible, proctorers will use a meeting app at their discretion.
-
+- Each school is to nominate one organiser who will contact the organising committee of CatOI.
+- If proctoring is possible, participants are expected to arrive at the examination venue at least 15 minutes before the contest.
+- In the event that physical proctoring is not possible, proctorers will use a meeting app at their discretion.
+- In the event a participant is unavailable during the competition, a make-up can be arranged at the Scientific Committee's discretion before the embargo lifts.
 Tasks are not to be discussed until after the embargo period. This will be communicated on a date closer to the contest. 
-
-In the event a participant is unavailable during the competition, a make-up can be arranged at the Scientific Committee's discretion.
 
 ### TASKS
 
@@ -38,27 +36,24 @@ Past tasks are provided below:
 
 
 
-### EXPERIENCE
+### CatOI Committee 2025
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+- blackscreen1	(SC member)
+- HighLithop (SC member and TC member)
+- JustKitkat
+- Pan
+- penguin133
+- popperoni	(SC member and TC member)
+- Shadow1
+- shoryu386
+- StewartStudios	(SC member)
+- yuheng3757 (SC member)
 
- 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+### CatOI Committee 2024
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
-
-### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- JustKitkat
+- Pan
+- penguin133
+- Shadow1
+- shoryu386
+- Tyx2019
