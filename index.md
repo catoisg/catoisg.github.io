@@ -13,7 +13,3 @@ sitemap:
 	<p>Before 2024, it was also known as Nanyang Olympiad in Informatics.</p>
 	<p><strong> <a href="https://catoisg.github.io/about"> Why we made CatOI</a> </strong></p>
 </div>
-
-<div id="describe-text">
-	<p>CatOI is a 4-hour contest consisting of 8 questions.</p>
-</div>
