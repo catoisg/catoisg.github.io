@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CatOI 2026
-subtitle: November (TBC)
+title: Cat Olympiad in Informatics 2026
+subtitle: November 2026 (TBC)
 sitemap:
   priority: 0.9
 ---
@@ -9,7 +9,8 @@ sitemap:
 <img src="{{ '/assets/img/logo_text.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>CatOI is an annual contest for <strong>Secondary School</strong> and <strong>Junior College 1</strong> students.</p>
+	<p>CatOI is an annual student-organised contest for <strong>Secondary School</strong> and <strong>Junior College 1</strong> students.</p>
+	<p>Before 2024, it was also known as Nanyang Olympiad in Informatics.</p>
 </div>
 
 <div id="describe-text">
