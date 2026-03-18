@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/logo_text.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>CatOI is an annual contest for <strong>Secondary School</strong> and <strong>Junior College 1</strong> students.</p>
